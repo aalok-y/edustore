@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/aalok-y/edustore-be.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/aalok-y/edustore-fe.git
